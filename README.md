@@ -1,2 +1,4 @@
 # DiamondCostPrediction
-Python EDA, Data Cleaning, Linear and Polynomial Regression
+Data: https://www.kaggle.com/shivam2503/diamonds
+
+Used libraries: numpy, pandas, matplotlib, seaborn, sklearn
